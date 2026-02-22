@@ -5,7 +5,8 @@ I'm currently a student at 42 Paris, since Novembre 2025 !
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,github)](https://skillicons.dev)
 
-# My 42 Journey (so far)  
+
+## My 42 Journey (so far)  
 
 ### Piscine  
 _september 2025_  
@@ -24,8 +25,17 @@ _september 2025_
 - c10 ​❌​ ***15/100***
 - c11 ✅​ ***50/100***
 
+- rush00 ❌ ***0/100***
+- rush01 ❌ ***0/100***
+- rush02 ❌ ***0/100***
+
+- exam 00 ✅ ***100/100***
+- exam 01 ✅ ***80/100***
+- exam 02 ✅ ***80/100***
+- exam final ✅ ***84/100***
 
 <ins>final level</ins> : ***9,69*** 
+
 <!--
 **DisSaith/DisSaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
