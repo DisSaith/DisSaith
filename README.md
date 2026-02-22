@@ -26,35 +26,35 @@ Now i'm gradually learning to become a software engineer !
 <ins>date</ins> : ***september 2025***
 
 #### Days
-- sh 00 - ***65/100*** ✅
-- sh 01 - ***60/100*** ✅
-- c 00 - ***70/100*** ✅
-- c 01 -​ ***100/100*** ✅
-- c 02 - ***85/100*** ✅
-- c 03 - ***100/100*** ✅
-- c 04 -​ ***100/100*** ✅
-- c 05 -​ ***80/100*** ✅
-- c 06 -​ ***100/100*** ✅
-- c 07 -​ ***100/100*** ✅
-- c 08 -​ ***100/100*** ✅
-- c 09 -​ ***100/100*** ✅
-- c 10 ​-​ ***15/100*** ❌
-- c 11 -​ ***50/100*** ✅
+- [sh 00](https://github.com/DisSaith/42-Piscine/tree/main/sh00) - ***65/100*** ✅
+- [sh 01](https://github.com/DisSaith/42-Piscine/tree/main/sh01) - ***60/100*** ✅
+- [c 00](https://github.com/DisSaith/42-Piscine/tree/main/c00) - ***70/100*** ✅
+- [c 01](https://github.com/DisSaith/42-Piscine/tree/main/c01)​ - ***100/100*** ✅
+- [c 02](https://github.com/DisSaith/42-Piscine/tree/main/c02) - ***85/100*** ✅
+- [c 03](https://github.com/DisSaith/42-Piscine/tree/main/c03) - ***100/100*** ✅
+- [c 04](https://github.com/DisSaith/42-Piscine/tree/main/c04)​ - ***100/100*** ✅
+- [c 05](https://github.com/DisSaith/42-Piscine/tree/main/c05)​ - ***80/100*** ✅
+- [c 06](https://github.com/DisSaith/42-Piscine/tree/main/c06)​ - ***100/100*** ✅
+- [c 07](https://github.com/DisSaith/42-Piscine/tree/main/c07) -​ ***100/100*** ✅
+- [c 08](https://github.com/DisSaith/42-Piscine/tree/main/c08) -​ ***100/100*** ✅
+- [c 09](https://github.com/DisSaith/42-Piscine/tree/main/c09)​ - ***100/100*** ✅
+- [c 10](https://github.com/DisSaith/42-Piscine/tree/main/c10) -​ ***15/100*** ❌
+- [c 11](https://github.com/DisSaith/42-Piscine/tree/main/c11) -​ ***50/100*** ✅
 
 #### Rushs
-- rush 00 - ***0/100***  ❌  
+- [rush 00](https://github.com/DisSaith/42-Piscine/tree/main/rush00) - ***0/100***  ❌  
 <img src="images/rush_00.png" width="384"/>  
 
 
 
 
-- rush 01 - ***0/100*** ❌  
+- [rush 01](https://github.com/DisSaith/42-Piscine/tree/main/rush01) - ***0/100*** ❌  
 <img src="images/rush_01.png" width="384"/>  
 
 
 
 
-- rush 02 - ***0/100*** ❌  
+- [rush 02](https://github.com/DisSaith/42-Piscine/tree/main/rush02) - ***0/100*** ❌  
 <img src="images/rush_02.png" width="384"/>  
 
 #### Exams
@@ -73,14 +73,14 @@ Now i'm gradually learning to become a software engineer !
 <ins>since</ins> : ***november 2025***   
 
 #### Projects
-- libft - ***125/100*** ✅
-- ft_printf - ***110/100*** ✅
-- get_next_line - ***125/100*** ✅
+- [libft](https://github.com/DisSaith/42-Common-Core/tree/main/00_libft) - ***125/100*** ✅
+- [ft_printf](https://github.com/DisSaith/42-Common-Core/tree/main/01_ft_printf) - ***110/100*** ✅
+- [get_next_line](https://github.com/DisSaith/42-Common-Core/tree/main/01_get_next_line) - ***125/100*** ✅
 - Born2beroot - ***100/100*** ✅
-- push_swap - ***84/100*** ✅
-- pipex - ***100/100*** ✅
-- so_long - ***125/100*** ✅
-- philosophers - ***100/100*** ✅
+- [push_swap](https://github.com/DisSaith/42-Common-Core/tree/main/02_push_swap) ***84/100*** ✅
+- [pipex](https://github.com/DisSaith/42-Common-Core/tree/main/02_pipex) - ***100/100*** ✅
+- [so_long](https://github.com/DisSaith/42-Common-Core/tree/main/02_so_long) - ***125/100*** ✅
+- [philosophers](https://github.com/DisSaith/42-Common-Core/tree/main/03_philosophers) - ***100/100*** ✅
 - minishell - ***current project*** ⏳
 
 <!--
