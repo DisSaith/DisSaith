@@ -29,29 +29,12 @@ I'm currently a student at 42 Paris, since Novembre 2025 !
 - c11 -​ ***50/100*** ✅
 
 **rushs**  
-- rush00 - ***0/100***  ❌
-
-
-<img src="images/rush_00.png" width="384"/>
-- rush01 - ***0/100*** ❌
-
-
-<img src="images/rush_01.png" width="384"/>
-- rush02 - ***0/100*** ❌
-
-
+#### rush00 - ***0/100***  ❌  
+<img src="images/rush_00.png" width="384"/>  
+#### rush01 - ***0/100*** ❌  
+<img src="images/rush_01.png" width="384"/>  
+#### rush02 - ***0/100*** ❌  
 <img src="images/rush_02.png" width="384"/>  
-| Rush | Score | Grade |
-|---------|-------------|-------------|
-| rush00 | ***0/100***| ❌ |
-| peer evaluation |
-| <img src="images/rush_00.png" width="384"/> |
-| rush01 | ***0/100*** | ❌ |
-| peer evaluation |
-| <img src="images/rush_01.png" width="384"/> |
-| rush02 | ***0/100*** | ❌ |
-| peer evaluation |
-| <img src="images/rush_02.png" width="384"/> |
 
 **exams**
 - exam 00 - ***100/100*** ✅
