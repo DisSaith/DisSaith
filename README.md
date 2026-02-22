@@ -31,8 +31,16 @@ I'm currently a student at 42 Paris, since Novembre 2025 !
 **rushs**  
 #### rush00 - ***0/100***  ❌  
 <img src="images/rush_00.png" width="384"/>  
+
+
+
+
 #### rush01 - ***0/100*** ❌  
 <img src="images/rush_01.png" width="384"/>  
+
+
+
+
 #### rush02 - ***0/100*** ❌  
 <img src="images/rush_02.png" width="384"/>  
 
