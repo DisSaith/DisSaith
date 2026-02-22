@@ -28,11 +28,11 @@ _september 2025_
 
 
 - rush00 ❌ ***0/100***
-<img src="images/rush_00.png" width="128"/>    
-- rush01 ❌ ***0/100***
-<img src="images/rush_01.png" width="128"/>  
-- rush02 ❌ ***0/100***
-<img src="images/rush_02.png" width="128"/>  
+<img src="images/rush_00.png" width="512"/>    
+- rush01 ❌ ***0/100***  
+<img src="images/rush_01.png" width="512"/>  
+- rush02 ❌ ***0/100***  
+<img src="images/rush_02.png" width="512"/>  
 
 - exam 00 ✅ ***100/100***
 - exam 01 ✅ ***80/100***
@@ -40,8 +40,8 @@ _september 2025_
 - exam final ✅ ***84/100***  
 
 
-<ins>final level</ins> : ***9,69*** 
-<img src="images/final_score.png" width="128"/>  
+<ins>final level</ins> : ***9,69***  
+<img src="images/final_score.png" width="512"/>  
 <!--
 **DisSaith/DisSaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
