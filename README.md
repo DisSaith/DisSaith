@@ -14,7 +14,7 @@ Now i'm gradually learning to become a software engineer !
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,pythonvim,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,vim,git,github" />
   </a>
 </p>
 
