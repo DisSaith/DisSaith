@@ -27,11 +27,11 @@ _days_
 - c11 -​ ***50/100*** ✅
 
 _rushs_  
-- rush00 ***0/100***  ❌  
+rush00 - ***0/100***  ❌  
 <img src="images/rush_00.png" width="384"/>
-- rush01 ***0/100*** ❌  
+rush01 - ***0/100*** ❌  
 <img src="images/rush_01.png" width="384"/>
-- rush02 ***0/100*** ❌  
+rush02 - ***0/100*** ❌  
 <img src="images/rush_02.png" width="384"/>  
 
 _exams_  
