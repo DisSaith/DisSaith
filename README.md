@@ -10,6 +10,7 @@ I'm currently a student at 42 Paris, since Novembre 2025 !
 
 ### Piscine  
 _september 2025_  
+_days_  
 - sh00 - ***65/100*** ✅
 - sh01 - ***60/100*** ✅
 - c00 - ***70/100*** ✅
@@ -23,17 +24,17 @@ _september 2025_
 - c08 -​ ***100/100*** ✅
 - c09 -​ ***100/100*** ✅
 - c10 ​-​ ***15/100*** ❌
-- c11 -​ ***50/100*** ✅  
+- c11 -​ ***50/100*** ✅
 
-
-
-- rush00 ❌ ***0/100***
-<img src="images/rush_00.png" width="384"/>    
+_rushs_  
+- rush00 ❌ ***0/100***  
+<img src="images/rush_00.png" width="384"/>  
 - rush01 ❌ ***0/100***  
 <img src="images/rush_01.png" width="384"/>  
 - rush02 ❌ ***0/100***  
 <img src="images/rush_02.png" width="384"/>  
 
+_exams_  
 - exam 00 ✅ ***100/100***
 - exam 01 ✅ ***80/100***
 - exam 02 ✅ ***80/100***
