@@ -12,7 +12,7 @@ I'm currently a student at 42 Paris, since Novembre 2025 !
 
 <ins>date</ins> : ***september 2025***
 
-**days**
+#### days
 - sh00 - ***65/100*** ✅
 - sh01 - ***60/100*** ✅
 - c00 - ***70/100*** ✅
@@ -28,23 +28,23 @@ I'm currently a student at 42 Paris, since Novembre 2025 !
 - c10 ​-​ ***15/100*** ❌
 - c11 -​ ***50/100*** ✅
 
-**rushs**  
-#### rush00 - ***0/100***  ❌  
+#### rushs
+- rush00 - ***0/100***  ❌  
 <img src="images/rush_00.png" width="384"/>  
 
 
 
 
-#### rush01 - ***0/100*** ❌  
+- rush01 - ***0/100*** ❌  
 <img src="images/rush_01.png" width="384"/>  
 
 
 
 
-#### rush02 - ***0/100*** ❌  
+- rush02 - ***0/100*** ❌  
 <img src="images/rush_02.png" width="384"/>  
 
-**exams**
+#### exams
 - exam 00 - ***100/100*** ✅
 - exam 01 - ***80/100*** ✅
 - exam 02 - ***80/100*** ✅
