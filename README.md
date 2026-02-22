@@ -69,25 +69,27 @@ Now i'm gradually learning to become a software engineer !
 
 
 
+
 ### 👨🏻‍💻 Common Core
 <ins>since</ins> : ***november 2025***   
 
-#### My Projects 
-##### Milestone 00
+#### Milestone 00
 - [libft](https://github.com/DisSaith/42-Common-Core/tree/main/00_libft) - Your very first own library coded in C - ***125/100*** ✅ (validated 11/10/2025)
-##### Milestone 01
+#### Milestone 01
 - born2beroot - Create and setting up a Virtual Machine - ***100/100*** ✅ (validated 11/12/2025)
 - [ft_printf](https://github.com/DisSaith/42-Common-Core/tree/main/01_ft_printf) - Recode the function printf() - ***110/100*** ✅ (validated 11/17/2025)
 - [get_next_line](https://github.com/DisSaith/42-Common-Core/tree/main/01_get_next_line) - Create a function that returns a line read from a file descriptor - ***125/100*** ✅ (validated 11/19/2025)
-##### Milestone 02
+#### Milestone 02
 - [push_swap](https://github.com/DisSaith/42-Common-Core/tree/main/02_push_swap) - Sort a data stack with a limited set of instructions - ***84/100*** ✅ (validated 12/11/2025)
 - [pipex](https://github.com/DisSaith/42-Common-Core/tree/main/02_pipex) - Explore Unix mechanism in detail and understand processes and pipes (shell) - ***100/100*** ✅ (validated 01/02/2026)
 - [so_long](https://github.com/DisSaith/42-Common-Core/tree/main/02_so_long) - Create a small 2D game with minilibx - ***125/100*** ✅ (validated 01/09/2026)
-##### Milestone 03
+#### Milestone 03
 - [philosophers](https://github.com/DisSaith/42-Common-Core/tree/main/03_philosophers) - Learn the basics of threading a process (dining philosophers problem) - ***100/100*** ✅ (validated 01/20/2026)
 - minishell - Reproduce a simple bash shell - ***current project*** ⏳
-##### Milestone 04
+#### Milestone 04
 not yet..
+
+
 
 <!--
 **DisSaith/DisSaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
