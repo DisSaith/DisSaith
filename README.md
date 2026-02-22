@@ -10,7 +10,7 @@ I'm currently a student at 42 Paris !
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,vim,git,github" />
   </a>
 </p>
 
