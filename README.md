@@ -8,8 +8,11 @@ I'm currently a student at 42 Paris !
 [youtube](https://www.youtube.com/@antoinecohaut)
 [instagram](https://www.instagram.com/antoine.cohaut/?hl=fr)
 
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,github)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,git,github" />
+  </a>
+</p>
 
 
 ## My 42 Journey (so far)  
@@ -70,7 +73,7 @@ I'm currently a student at 42 Paris !
 - ft_printf - ***110/100*** ✅
 - get_next_line - ***125/100*** ✅
 - Born2beroot - ***100/100*** ✅
-- push_swap - ***100/100*** ✅
+- push_swap - ***84/100*** ✅
 - pipex - ***100/100*** ✅
 - so_long - ***125/100*** ✅
 - philosophers - ***100/100*** ✅
