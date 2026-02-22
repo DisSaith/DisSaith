@@ -1,7 +1,9 @@
 ## Hi there 👋 i'm Antoine Cohaut
 
-I'm currently a student at 42 Paris ! 
+I'm currently a student at 42 Paris !  
 <ins>login</ins> : _acohaut_  
+
+### 📍 My links
 [linkedin](https://www.linkedin.com/in/antoine-cohaut-879401271/)
 [youtube](https://www.youtube.com/@antoinecohaut)
 [instagram](https://www.instagram.com/antoine.cohaut/?hl=fr)
