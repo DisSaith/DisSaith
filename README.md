@@ -2,9 +2,9 @@
 
 I'm currently a student at 42 Paris ! 
 <ins>login</ins> : _acohaut_  
-[!linkedin](https://www.linkedin.com/in/antoine-cohaut-879401271/)
-[!youtube](https://www.youtube.com/@antoinecohaut)
-[!instagram](https://www.instagram.com/antoine.cohaut/?hl=fr)
+[![linkedin](https://www.linkedin.com/in/antoine-cohaut-879401271/)
+![youtube](https://www.youtube.com/@antoinecohaut)
+![instagram](https://www.instagram.com/antoine.cohaut/?hl=fr)
 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,git,github)](https://skillicons.dev)
