@@ -23,13 +23,12 @@ _september 2025_
 - c08 -​ ***100/100*** ✅
 - c09 -​ ***100/100*** ✅
 - c10 ​-​ ***15/100*** ❌
-- c11 -​ ***50/100*** ✅
+- c11 -​ ***50/100*** ✅  
 
 
 
 - rush00 ❌ ***0/100***
-![alt text](https://github.com/DisSaith/DisSaith/blob/main/images/rush_00.png?raw=true)  
-
+<img src="github.com/DisSaith/DisSaith/blob/main/images/rush_00.png" width="128"/>  
 - rush01 ❌ ***0/100***
 - rush02 ❌ ***0/100***
 
