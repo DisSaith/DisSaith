@@ -28,7 +28,7 @@ _september 2025_
 
 
 - rush00 ❌ ***0/100***
-<img src="github.com/DisSaith/DisSaith/blob/main/images/rush_00.png" width="64"/>  
+<img src="github.com/DisSaith/DisSaith/images/rush_00.png" width="64"/>  
 - rush01 ❌ ***0/100***
 - rush02 ❌ ***0/100***
 
