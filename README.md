@@ -4,7 +4,7 @@ I'm currently a student at 42 Paris !
 <ins>login</ins> : _acohaut_  
 
 ### 🌱 About me
-I come from the south of France, near Marseille, in Provence. I moved to Paris in 2019 to study. I starded at university, where I studied Cinema and discovered computer science and Python (thanks to a college option). I continued with a private film school before changing direction and take part in the "competitive examination" (the "piscine") for 42 Paris. 
+I come from the south of France, near Marseille, in Provence. I moved to Paris in 2019 to study. I started at university, where I studied Cinema and discovered computer science and Python (thanks to a college option). I continued with a private film school before changing direction and taking part in the "competitive examination" (the "piscine") for 42 Paris. 
 Now i'm gradually learning to become a software engineer !
 
 ### 📍 My links
