@@ -85,9 +85,9 @@ Now i'm gradually learning to become a software engineer !
 - [so_long](https://github.com/DisSaith/42-Common-Core/tree/main/02_so_long) - Create a small 2D game with minilibx - ***125/100*** ✅ (validated 01/09/2026)
 #### Milestone 03
 - [philosophers](https://github.com/DisSaith/42-Common-Core/tree/main/03_philosophers) - Learn the basics of threading a process (dining philosophers problem) - ***100/100*** ✅ (validated 01/20/2026)
-- minishell - Reproduce a simple bash shell ✅ - ***101/100*** (validated 03/10/2026)
+- minishell - Reproduce a simple bash shell - ***101/100*** ✅ (validated 03/10/2026)
 #### Milestone 04
-- NetPractice - introduction to networks, TCP/IP, subnet mask, router.. - ***current project*** ⏳
+- netpractice - introduction to networks, TCP/IP, subnet mask, router.. - ***current project*** ⏳
 
 
 
