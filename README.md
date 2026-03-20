@@ -87,8 +87,8 @@ Now i'm gradually learning to become a software engineer !
 - [philosophers](https://github.com/DisSaith/42-Common-Core/tree/main/03_philosophers) - Learn the basics of threading a process (dining philosophers problem) - ***100/100*** ✅ (validated 01/20/2026)
 - [minishell](https://github.com/DisSaith/42-Common-Core/tree/main/03_minishell) - Reproduce a simple bash shell - ***101/100*** ✅ (validated 03/10/2026)
 #### Milestone 04
-- netpractice - introduction to networks, TCP/IP, subnet mask, router.. - ***100/100*** ✅ (validated 03/19/2026)
-- cpp 01 - introduction into C++ langage, first module - ***current project*** ⏳
+- netpractice - Introduction to networks, TCP/IP, subnet mask, router.. - ***100/100*** ✅ (validated 03/19/2026)
+- cpp 01 - First module of C++, introduction into C++ langage - ***current project*** ⏳
 
 
 <!--
