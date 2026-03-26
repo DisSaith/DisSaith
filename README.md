@@ -88,7 +88,7 @@ Now i'm gradually learning to become a software engineer !
 - [minishell](https://github.com/DisSaith/42-Common-Core/tree/main/03_minishell) - Reproduce a simple bash shell - ***101/100*** ✅ (validated 03/10/2026)
 #### Milestone 04
 - netpractice - Introduction to networks, TCP/IP, subnet mask, router.. - ***100/100*** ✅ (validated 03/19/2026)
-- cpp 01 - First module of C++, introduction into C++ langage - ***current project*** ⏳
+- cpp 00 - First module of C++, introduction into C++ langage - ***current project*** ⏳
 
 
 <!--
