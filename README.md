@@ -88,7 +88,12 @@ Now i'm gradually learning to become a software engineer !
 - [minishell](https://github.com/DisSaith/42-Common-Core/tree/main/03_minishell) - Reproduce a simple bash shell - ***101/100*** ✅ (validated 03/10/2026)
 #### Milestone 04
 - netpractice - Introduction to networks, TCP/IP, subnet mask, router.. - ***100/100*** ✅ (validated 03/19/2026)
-- cpp 00 - First module of C++, introduction into C++ langage - ***current project*** ⏳
+- [cpp 00](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_00) - First module of C++ : namespaces, classes, member functions, stdio streams, initialization lists, static, const and some other basic stuff - ***100/100*** ✅ (validated 04/07/2026)
+- [cpp 01](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_01) - Memory allocation, pointers to members, references and switch statements - ***100/100*** ✅ (validated 04/10/2026)
+- [cpp 02](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_02) - Ad-hoc polymorphisme, operator overloading and the Orthodox Canonical class form - ***100/100*** ✅ (validated 04/21/2026)
+- [cpp 03](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_03) - Inheritance - ***100/100*** ✅ (validated 04/23/2026)
+- [cpp 04](https://github.com/DisSaith/42-Common-Core/tree/main/04_cpp_04) - Subtype Polymorphism, Abstract Classes and Interfaces - ***100/100*** ✅ (validated 04/28/2026)
+- cub3d - Our first RayCaster with miniLibX. Creation of a 3D video game (inspired by Wolfenstein 3D) - ***current project*** ⏳
 
 
 <!--
