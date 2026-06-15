@@ -14,7 +14,7 @@ Now i'm gradually learning to become a software engineer !
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,vim,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,c#,py,vim,git,github" />
   </a>
 </p>
 
@@ -100,7 +100,7 @@ Now i'm gradually learning to become a software engineer !
 - [cpp 07](https://github.com/DisSaith/42-Common-Core/tree/main/05_cpp_07) - C++ templates - ***100/100*** ✅ (validated 06/06/2026)
 - [cpp 08](https://github.com/DisSaith/42-Common-Core/tree/main/05_cpp_08) - Templated containers, iterators, algorithms - ***100/100*** ✅ (validated 06/09/2026)
 - [cpp 09](https://github.com/DisSaith/42-Common-Core/tree/main/05_cpp_09) - STL - ***100/100*** ✅ (validated 06/12/2026)
-- inception - Virtualize several Docker images and increase our knowledge of system administration ***current project*** ⏳
+- inception - Virtualize several Docker images and increase our knowledge of system administration - ***current project*** ⏳
 
 
 <!--
